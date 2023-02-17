@@ -1,0 +1,16 @@
+User navigation through all the pages of the application
+None of the links in the applications should be broken.
+Company logo, products, prices, and their description should be visible.
+Products should be listed category-wise on the application.
+Products should be displayed which match the search criteria.
+Relevant products should be listed on the top of the search results page.
+Filtering functionality should work properly i.e., correct products are filtered when the filter is applied.
+Ensure correct count of products is displayed on search and filter.
+Sorting should be working correctly on all the pages – the products are sorted based on the sort of option.
+The product count should remain the same even when sorting is applied.
+verify by entering some random number/mailid while checkout
+when entering invalid number/mailid it must be shows un authorized or inaccessible or can not continue without OTP
+OTP must be validate through authorised user only
+whenever we proceed to buynow OTP code will be sent to logged user only via sms or mail
+verify that otp enters is valid or not 
+incase of random number/mail ids the page should not navigate to next (payment) page
