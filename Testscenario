@@ -14,3 +14,7 @@ OTP must be validate through authorised user only
 whenever we proceed to buynow OTP code will be sent to logged user only via sms or mail
 verify that otp enters is valid or not 
 incase of random number/mail ids the page should not navigate to next (payment) page
+Email and order id should be sent after placement of order.
+Users should be able to cancel the order.
+There should be facility for users to track the order.
+Users should be able to return/replace the product post-delivery.
